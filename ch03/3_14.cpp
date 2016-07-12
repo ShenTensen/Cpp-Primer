@@ -1,0 +1,15 @@
+// 3.14
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main ()
+{
+	int i;
+	vector<int> temp;
+	while (cin >> i)
+		temp.push_back(i);	
+	
+	return 0;
+}
