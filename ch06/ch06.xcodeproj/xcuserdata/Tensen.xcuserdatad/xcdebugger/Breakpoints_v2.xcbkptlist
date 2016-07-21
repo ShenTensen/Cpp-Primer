@@ -9,13 +9,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Ex_ch03/3_24.cpp"
-            timestampString = "469715759.244164"
+            filePath = "6_30.cpp"
+            timestampString = "490627750.795605"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "main ()"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "str_subrange(const string &amp;str1, const string &amp;str2)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
